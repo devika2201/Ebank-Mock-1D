@@ -1,0 +1,73 @@
+.login-container {
+  background-color: #152850;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-container {
+  height: 60vh;
+  width: 50vw;
+  background-color: #e0eefe;
+  border-radius: 5px;
+  display: flex;
+}
+
+.first-container {
+  width: 30vw;
+  height: 60vh;
+}
+
+.second-container {
+  width: 25vw;
+  height: 60vh;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.website-size {
+  height: 60vh;
+  width: 25vw;
+}
+
+.label-and-input {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.labels {
+  color: #152850;
+  margin: 5px;
+}
+
+.inputs {
+  border: 1px solid #152850;
+  height: 5vh;
+  width: 20vw;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.buttons {
+  background-color: #1565d8;
+  color: #ffffff;
+  border: 0px;
+  height: 5vh;
+  width: 20vw;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.heading {
+  margin: 15px;
+  color: #152850;
+}
+
+.error {
+  color: #ff0b37;
+  text-align: center;
+}
